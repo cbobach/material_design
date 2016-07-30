@@ -55,13 +55,14 @@ h1{
 
 .light_color{
   width: 200px;
-  height: 150px;
+  height: 75px;
   margin: 10px;
+  margin-bottom: 75px;
 }
 
 .dark_color{
   width: 100%;
-  height: 20%;
+  height: 20px;
   box-shadow: 0 2px 5px -3px #888;
 }
 
@@ -70,7 +71,7 @@ h1{
   height: 50px;
   border-radius: 50px;
   position: relative;
-  top: -20%;
+  top: 25px;
   float: right;
   margin: 5px 15px;
   box-shadow: 0 2px 7px -3px #888;
